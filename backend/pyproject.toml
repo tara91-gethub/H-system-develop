@@ -150,7 +150,7 @@ dev = [
     "pytest-testmon==2.2.0",
     "ipdb",
     "build",
-    "rust-just>=1.46.0",
+    "rust-just>=1.50.0",
 ]
 changelog = [
     "typer==0.24.1",

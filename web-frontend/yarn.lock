@@ -4197,10 +4197,10 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-highlight/-/extension-highlight-3.15.3.tgz#5197e49535ffd5b647ef91167dd2b72b4d7fc592"
   integrity sha512-ZZyuKGW4WrMx3pBEfsHqOcqEklfiiAjVuvhji9FJcip1w0B2OnMWkgZw7rdAlsQG8pGH6NWh9Gf2DOUsjuAa6A==
 
-"@tiptap/extension-history@^3.13.0":
-  version "3.15.3"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-history/-/extension-history-3.15.3.tgz#b6f19f472171fb480ac23a3b119ec47a8f996fdb"
-  integrity sha512-nzayl9Iv+lkd6Om9bip8iWSAS8mr/pw2EwOlEAogBueNhVc+VoBKwq3DGnBTbqAddc4g0T7oOtHmmmovBoZduQ==
+"@tiptap/extension-history@^3.22.4":
+  version "3.22.4"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-history/-/extension-history-3.22.4.tgz#a83012a271e50a48ba3942dfaec280f19fba92f8"
+  integrity sha512-yk1RrBJty4F3Os+w6zIS3nOSOKy+iIax3UyXwCKiP+JI4nsTlYvgQTgTtT9Wqa14ZrypasV8gAuQeTNf/spFLg==
 
 "@tiptap/extension-horizontal-rule@^3.13.0":
   version "3.15.3"

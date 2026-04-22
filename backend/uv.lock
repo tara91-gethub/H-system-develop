@@ -389,7 +389,7 @@ requires-dist = [
     { name = "pgvector", specifier = "==0.4.2" },
     { name = "pillow", specifier = "==12.2.0" },
     { name = "posthog", specifier = "==7.4.2" },
-    { name = "prosemirror", specifier = "==0.5.2" },
+    { name = "prosemirror", specifier = "==0.6.1" },
     { name = "psutil", specifier = "==7.2.2" },
     { name = "psycopg2-binary", specifier = "==2.9.11" },
     { name = "pydantic-ai-slim", extras = ["anthropic", "bedrock", "google", "groq", "mistral", "openai"], specifier = "==1.77.0" },
@@ -2628,16 +2628,16 @@ wheels = [
 
 [[package]]
 name = "prosemirror"
-version = "0.5.2"
+version = "0.6.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "cssselect", marker = "sys_platform == 'darwin' or sys_platform == 'linux'" },
     { name = "lxml", marker = "sys_platform == 'darwin' or sys_platform == 'linux'" },
     { name = "typing-extensions", marker = "sys_platform == 'darwin' or sys_platform == 'linux'" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/ea/fe/cfecf8a00202e284dd92dd33e3a451d5dea24ab477a216428fd8e5713a79/prosemirror-0.5.2.tar.gz", hash = "sha256:719c2aa0a43e07b774ed1db47574e20ec881218613c9a59ad929c6b3ca3c1e5f", size = 66815, upload-time = "2025-03-07T15:59:34.991Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/d6/8a/36cd9224f70441fd66d428f7cad650923d949d0d9395cbae82aab6b78df5/prosemirror-0.6.1.tar.gz", hash = "sha256:eec45a4f35d03ddb58700199292646c34b334bbad385a21679fc7a8d181cd272", size = 76262, upload-time = "2026-02-21T15:43:01.272Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/23/a3/720c78f77ec2f1d7c9a20280ab46609a9acf4628d21964cf4eedbaf22d55/prosemirror-0.5.2-py3-none-any.whl", hash = "sha256:b1d78d8793c12554e464e662104b2d7448b2e606bb4212471224bb310124ea56", size = 61678, upload-time = "2025-03-07T15:59:33.769Z" },
+    { url = "https://files.pythonhosted.org/packages/8c/6b/ff4f2362320c53ea989ef32e4ac978233b65ffb2e6e3131aea7860c740cb/prosemirror-0.6.1-py3-none-any.whl", hash = "sha256:f9d38313a72af1c579cbb87beac3a765f399416afc4567cb016aca53ec4cdae6", size = 67868, upload-time = "2026-02-21T15:43:00.3Z" },
 ]
 
 [[package]]

@@ -81,7 +81,7 @@ dependencies = [
     "django-cachalot==2.8.0",
     "celery-singleton==0.3.1",
     "posthog==7.4.2",
-    "prosemirror==0.5.2",
+    "prosemirror==0.6.1",
     "rich==14.3.2",
     "tzdata==2025.3",
     "sentry-sdk==2.52.0",
